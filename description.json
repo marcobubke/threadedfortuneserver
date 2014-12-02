@@ -1,7 +1,7 @@
 {
     "Name" : "Threaded Fortune Server ",
     "ShortDescription" : "The Threaded Fortune Server example shows how to create a server for a simple network service that uses threads to handle requests from different clients. It is intended to be run alongside the Fortune Client example.",
-    "DownloadLocation" : "https://api.github.com/repos/marcobubke/threadedfortuneserver/zipball/master",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/threadedfortuneserver/zipball/4a4f5c2b9cc5349f86274ce462c8926304d17dd6",
     "Icon" : "network.png",
     "Id" : 10,
     "Tags" : "network tcp server thread advanced",
