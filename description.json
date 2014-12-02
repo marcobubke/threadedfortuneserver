@@ -1,0 +1,10 @@
+{
+    "Name" : "Threaded Fortune Server ",
+    "ShortDescription" : "The Threaded Fortune Server example shows how to create a server for a simple network service that uses threads to handle requests from different clients. It is intended to be run alongside the Fortune Client example.",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/threadedfortuneserver/zipball/master",
+    "Icon" : "network.png",
+    "Id" : 10,
+    "Tags" : "network tcp server thread advanced",
+    "ProjectFile" : "threadedfortuneserver.pro",
+    "LongDescription" : "<p>The implementation of this example is similar to that of the Fortune Server example, but here we will implement a subclass of QTcpServer that starts each connection in a different thread.</p>"
+}
